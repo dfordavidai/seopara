@@ -1,0 +1,10 @@
+{
+  "name": "seoparapro-backend",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "playwright-core": "^1.44.0",
+    "@sparticuz/chromium": "^123.0.0",
+    "node-fetch": "^3.3.2"
+  }
+}
